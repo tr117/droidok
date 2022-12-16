@@ -1,0 +1,2 @@
+# droidok
+hozzájárulás gyakorlására
